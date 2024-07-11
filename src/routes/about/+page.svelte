@@ -1,5 +1,4 @@
-<div class="homepage">prova</div>
-<a href="src/routes/about/+page.svelte" class="homepage">prova</a>
+<a href="src/routes/+page.svelte" class="homepage">torna indietro</a>
 
 <style>
 	.homepage {
